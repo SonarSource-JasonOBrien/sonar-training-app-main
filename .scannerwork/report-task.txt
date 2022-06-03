@@ -1,6 +1,6 @@
 projectKey=SonarSource-JasonOBrien_sonar-training-app-main
 serverUrl=https://sonarqube-jasonobrien.ngrok.io
 serverVersion=9.3.0.51899
-dashboardUrl=https://sonarqube-jasonobrien.ngrok.io/dashboard?id=SonarSource-JasonOBrien_sonar-training-app-main
-ceTaskId=AYEgt0zdz7PgMkGg-7SB
-ceTaskUrl=https://sonarqube-jasonobrien.ngrok.io/api/ce/task?id=AYEgt0zdz7PgMkGg-7SB
+dashboardUrl=https://sonarqube-jasonobrien.ngrok.io/dashboard?id=SonarSource-JasonOBrien_sonar-training-app-main&pullRequest=1
+ceTaskId=AYEgw-zHz7PgMkGg-7SH
+ceTaskUrl=https://sonarqube-jasonobrien.ngrok.io/api/ce/task?id=AYEgw-zHz7PgMkGg-7SH
